@@ -1,0 +1,4 @@
+ldap_uri: "ldap://ldap-home.lxhome.local"
+bind_dn: "cn=Directory Manager"
+bind_pw: "123456"
+people_ou: "ou=People,dc=lx,dc=local"
